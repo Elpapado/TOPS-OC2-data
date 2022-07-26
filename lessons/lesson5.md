@@ -106,12 +106,12 @@ Individual research disciplines may already have put together materials and have
 
 #### **Open Science related communities**
 
-There are a number of communities that are focussed on Open Science activities. [ReproducibiliTea](https://reproducibilitea.org/) is a grass-roots journal club initiative that is based in over 100 institutions and is a forum to discuss reproducibility, closely allied to Open Science [12]. The [FAIRdata forum](https://fairdataforum.org/) allows you to browse materials and raise questions that are related to FAIR [13]. Correspondingly the [PID forum](https://pidforum.org/) allows you to ask questions on PIDs in general [14]. A list of Open Science communities is provided in the next module (Open Tools).
+There are a number of communities that are focussed on Open Science activities. [ReproducibiliTea](https://reproducibilitea.org/) is a grass-roots journal club initiative that is based in over 100 institutions and is a forum to discuss reproducibility, closely allied to Open Science [12]. The [FAIRdata forum](https://fairdataforum.org/) allows you to browse materials and raise questions that are related to FAIR [13]. Correspondingly the [PID forum](https://pidforum.org/) allows you to ask questions on PIDs in general [14]. Particularly for EU funded projects, OpenAIRE's network of experts (i.e. [National Open Access Desks - NOADs](https://www.openaire.eu/noad-activities)) for more than 10 years support grant recipients to follow best practices for Open Access and Open Science. A list of Open Science communities is provided in the next module (Open Tools).
 
 
 #### **Tools and resources**
 
-Finally, there are a range of different tools to help you. For example, [DMPtool](https://dmptool.org/quick_start_guide) and [DMPonline](https://dmponline.dcc.ac.uk/) allow you to build your own DMPs [15] [16]. See the module Open Tools for more details. There are a variety of different catalogs out there one can use to search for materials in this area. [Shanahan, Hoebelheinrich and Whyte](https://www.sciencedirect.com/science/article/pii/S2666389921001720) (2021) have a table of catalogs to search for materials [17].
+Finally, there are a range of different tools to help you. For example, [ARGOS](https://argos.openaire.eu), [Data Stewardship Wizard](https://ds-wizard.org/),[DMPonline](https://dmponline.dcc.ac.uk/) and [DMPtool](https://dmptool.org/quick_start_guide) allow you to build your own DMPs [15] [16]. See the module Open Tools for more details. There are a variety of different catalogs out there one can use to search for materials in this area. [Shanahan, Hoebelheinrich and Whyte](https://www.sciencedirect.com/science/article/pii/S2666389921001720) (2021) have a table of catalogs to search for materials [17].
 
 
 #### **Local library or IT services**
